@@ -36,19 +36,3 @@ venv\Scripts\activate     # For Windows
 pip install -r requirements.txt
 cd app
 python3 app.py
-http://127.0.0.1:5000/
-EmailSpamFilter/
-├── app/                # Flask application
-│   ├── templates/      # HTML templates
-│   ├── static/         # CSS and other static files
-│   └── app.py          # Flask app code
-├── data/               # Dataset and preprocessed files
-│   ├── spam.csv        # Original dataset
-│   └── preprocessed/   # Processed data and vectorizer
-├── models/             # Trained ML models
-├── src/                # Python scripts for data processing and model training
-│   ├── data_loading.py # Load dataset
-│   ├── preprocessing.py# Preprocess dataset
-│   └── improve_model.py# Train and evaluate the model
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
