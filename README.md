@@ -1,6 +1,6 @@
 # Email Spam Filter
 
-**Email Spam Filter** is a Flask-based web application that uses machine learning to classify messages as **Spam** or **Not Spam**. The project features a modern, responsive UI with animations and demonstrates the integration of Flask and machine learning.
+**Email Spam Filter** is a Flask-based web application made using GenAI that uses machine learning to classify messages as **Spam** or **Not Spam**. The project features a modern, responsive UI with animations and demonstrates the integration of Flask and machine learning.
 
 ---
 
